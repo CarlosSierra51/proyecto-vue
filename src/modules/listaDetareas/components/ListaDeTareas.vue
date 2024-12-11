@@ -24,6 +24,6 @@ const borrarTarea = (index) => {
 }
 </script>
 
-<style>
+<style scoped>
 
 </style>
